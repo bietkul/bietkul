@@ -1,4 +1,4 @@
-### Hi there 👋!
+### Hi there 👋
 
 #### Who I am?
 - A software engineer based in India, having 6+ years of hands-on experience in building web and mobile apps for startups.
