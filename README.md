@@ -15,7 +15,7 @@
 #### What companies have I worked for?
 <p left="center">
   <a href="https://zoom.us/">
-    <img src="https://st2.zoom.us/static/6.3.13242/image/new/topNav/Zoom_logo.svg" height=50>
+    <img src="https://st2.zoom.us/static/6.3.13242/image/new/topNav/Zoom_logo.svg" height=40>
   </a>
   <a href="https://reactivesearch.io/">
     <img src="https://softr-prod.imgix.net/applications/1c48df48-ec83-4b4e-b41c-3f5ee2b4bcd0/assets/9be7126b-a10e-41ab-9f63-1ef71ba78bd8.png" height=50>
